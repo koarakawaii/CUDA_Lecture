@@ -1,0 +1,17 @@
+10
+9
+8
+e
+0.1
+2678347891
+10
+1
+
+# N_dimension
+# N_sample = 2^m
+# N_time = 2^m
+# l/e/g Use linear/exponential decay/Gaussian weight function
+# alpha
+# seed
+# N_thermal
+# interval for measurement

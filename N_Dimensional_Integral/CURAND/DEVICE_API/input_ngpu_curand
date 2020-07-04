@@ -1,0 +1,26 @@
+1
+0 
+10
+9
+8
+e
+0.1
+123451341
+1
+10
+6
+10
+
+# N_GPU
+# GPU_ID
+# dimension
+# number of sampling point 2^m
+# number of sampling time 2^m
+# type of wieght function linear, exponential decay, Gaussian l/e/g
+# alpha
+# seed
+# memory factor
+# interval between measurement
+# thermalization iteration (must be divisible by N_measure)
+# threads per block 2^m
+# blocks per grid 2^m
