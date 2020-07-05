@@ -1,0 +1,27 @@
+1 2
+2048 2048
+2.0
+0.0
+c
+500
+200
+20000
+200
+0 1
+999993884  67499581
+4 4 
+16
+
+# number of GPU
+# lattice size ( Nx,Ny )
+# temperature
+# magnetic field
+# cold/hot start (c/h)
+# number of measurement(s)
+# interval of measurement
+# number of thermalization iterations
+# interval of display
+# GPU_ID
+# GPU seed
+# threads per block
+# number of bins
